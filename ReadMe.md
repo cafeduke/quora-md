@@ -49,15 +49,13 @@ Copy the contents and save it a file say `uri.txt`
 
 # Download answer and convert to MarkDown 
 
-- Download the project and extract it in an empty folder
+- Download the [project](https://github.com/cafeduke/quora-md/archive/refs/heads/master.zip) and extract it in an empty folder
 
   ```bash
   > unzip <path-to-archive> -d ~/Quora/gen-md
   > cd ~/Quora/gen-md
   > chmod 755 *.sh
   ```
-
-  
 
 - Execute run.sh
 
@@ -76,8 +74,6 @@ Copy the contents and save it a file say `uri.txt`
   > ls mdfiles
   a1.md a2.md a3.md a4.md
   ```
-
-  
 
 # Examine Markdown
 
